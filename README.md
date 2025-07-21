@@ -18,10 +18,10 @@ Designed and maintained by **Astryxz**.
 ![Hyprlock](.previews/hyprlock.png)
 
 ### App Launcher (Rofi)
-![Rofi Apps](.previews/Rofi-Apps.png)
+![Rofi Apps](.previews/Rofi.png)
 
 ### Terminal Layout
-![Terminal](.previews/Terminal.png)
+![Terminal](.previews/Term.png)
 
 ### Wallpaper Switcher
 ![Wallpaper Switcher](.previews/Wallpaper.png)
