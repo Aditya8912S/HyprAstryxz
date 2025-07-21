@@ -11,11 +11,11 @@ Designed and maintained by **Astryxz**.
 
 > All images are located in the repository and referenced below.
 
-### TTY Look
-![FastF-TTY](.previews/FastF-TTY.png)
+### Code
+![Code](.previews/Code.png)
 
 ### Hyprlock (Lockscreen)
-![Hyprlock](.previews/hyprlock_screenshot.png)
+![Hyprlock](.previews/hyprlock.png)
 
 ### App Launcher (Rofi)
 ![Rofi Apps](.previews/Rofi-Apps.png)
@@ -122,5 +122,4 @@ You are free to copy, modify, and redistribute under the same license.
 This configuration is designed for clean visuals and fast workflows
 
 ---
-
 
