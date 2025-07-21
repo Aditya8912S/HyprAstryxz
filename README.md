@@ -24,7 +24,7 @@ Designed and maintained by **Astryxz**.
 ![Terminal](.previews/Terminal.png)
 
 ### Wallpaper Switcher
-![Wallpaper Switcher](.previews/Wallpaper-Switcher.png)
+![Wallpaper Switcher](.previews/Wallpaper.png)
 
 ### Waybar Layout
 ![Waybar](.previews/Waybar.png)
